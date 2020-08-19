@@ -20,8 +20,7 @@ si vous avez un problème avec eux, merci de me faire part de la discorde ou des
 Il n'y a aucun virus dans ce programme. Si vous ne me faites pas confiance, c'est open source. Vous pouvez rechercher à travers le code source.
 Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord et je le corrigerai pour vous.
 
-* Démarrez le fichier "Exécuter" et fermez-le après 10 secondes.
-* Installez "Node.exe".
+* Démarrez le fichier "Node.msi" pour installer Node.js si ne vous l'avez pas.
 * Recherchez des proxys avec le vérificateur de proxy inclus [AccountReaper](https://www.youtube.com/watch?v=mibaS3KK8FM) et achetez des tokens Discord ou créez vos propres comptes Discord!
 * Modifiez le fichier "config.json" avec le bloc-notes ou l'éditeur
 * Mettez vos tokens (vous devez créer des comptes et prendre les tokens).
