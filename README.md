@@ -1,4 +1,4 @@
-<center><img  alt="GalackDM" src="https://i.imgur.com/di2iUOQ.png"></enter>
+<center><img  alt="GalackDM" src="https://i.imgur.com/di2iUOQ.png"></center>
 
 [![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/XH7zQ8s)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
@@ -16,14 +16,14 @@ si vous avez un problème avec eux, merci de me faire part de la discorde ou des
 Il n'y a aucun virus dans ce programme. Si vous ne me faites pas confiance, c'est open source. Vous pouvez rechercher à travers le code source.<br>
 Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord et je le corrigerai pour vous.<br>
 <br>
-1. Démarrez le fichier "Exécuter" et fermez-le après 10 secondes.<br>
-2. Installez "Node.exe".<br>
-3. Recherchez des proxys avec le vérificateur de proxy inclus (AccountReaper) et achetez des jetons Discord ou créez vos propres comptes Discord!<br>
-4. Modifiez le fichier "config.json" avec le bloc-notes ou l'éditeur<br>
-5. Mettez vos tokens (vous devez créer des comptes et prendre les tokens).<br>
-6. Redémarrez le fichier "Run.exe"<br>
-7. Ouvrez votre navigateur et recherchez localhost:1337<br>
-8. Profitez d'attaquer<br>
+* Démarrez le fichier "Exécuter" et fermez-le après 10 secondes.<br>
+* Installez "Node.exe".<br>
+* Recherchez des proxys avec le vérificateur de proxy inclus (AccountReaper) et achetez des jetons Discord ou créez vos propres comptes Discord!<br>
+* Modifiez le fichier "config.json" avec le bloc-notes ou l'éditeur<br>
+* Mettez vos tokens (vous devez créer des comptes et prendre les tokens).<br>
+* Redémarrez le fichier "Run.exe"<br>
+* Ouvrez votre navigateur et recherchez localhost:1337<br>
+* Profitez d'attaquer<br>
 -------------------------------------------------- <br>
 <br>
 
