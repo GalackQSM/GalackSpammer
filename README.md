@@ -32,6 +32,7 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/CQuU7qS.png" height="200" width="350"/>
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/MtNdxt9.png" height="200" width="350"/>
 <br>
+
 ### GALACKSPAMMER copyright
 © 2020 GalackQSM
 
