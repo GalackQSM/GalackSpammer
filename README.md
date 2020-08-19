@@ -27,7 +27,7 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 -------------------------------------------------- <br>
 <br>
 
-### GALACKDM copyright
+### GALACKSPAMMER copyright
 © 2020 GalackQSM
 
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
