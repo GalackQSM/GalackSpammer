@@ -18,7 +18,7 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 <br>
 * Démarrez le fichier "Exécuter" et fermez-le après 10 secondes.<br>
 * Installez "Node.exe".<br>
-* Recherchez des proxys avec le vérificateur de proxy inclus (AccountReaper) et achetez des jetons Discord ou créez vos propres comptes Discord!<br>
+* Recherchez des proxys avec le vérificateur de proxy inclus [AccountReaper](https://www.youtube.com/watch?v=mibaS3KK8FM) et achetez des tokens Discord ou créez vos propres comptes Discord!<br>
 * Modifiez le fichier "config.json" avec le bloc-notes ou l'éditeur<br>
 * Mettez vos tokens (vous devez créer des comptes et prendre les tokens).<br>
 * Redémarrez le fichier "Run.exe"<br>
