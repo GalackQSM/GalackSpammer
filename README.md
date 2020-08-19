@@ -10,6 +10,7 @@ MERCI D'UTILISER LE GALACK SPAMMER! VOICI LES INSTRUCTIONS!
 AVERTISSEMENT: si vous considérez l'un de mes fichiers publiés comme une menace pour votre PC et votre vie privée,
 veuillez ne pas utiliser les fichiers que je poste. Je me soucie de la sécurité des gens et tous mes fichiers sont parfaitement propres et sûrs à utiliser,
 si vous avez un problème avec eux, merci de me faire part de la discorde ou des commentaires.
+
 --------------------------------------------------
 Il n'y a aucun virus dans ce programme. Si vous ne me faites pas confiance, c'est open source. Vous pouvez rechercher à travers le code source.
 Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord et je le corrigerai pour vous.
@@ -33,6 +34,7 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/CQuU7qS.png" height="200" width="350"/>
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/MtNdxt9.png" height="200" width="350"/>
 
+-------------------------------------------------- 
 ### GALACKSPAMMER copyright
 © 2020 GalackQSM
 
