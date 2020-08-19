@@ -11,8 +11,6 @@ AVERTISSEMENT: si vous considérez l'un de mes fichiers publiés comme une menac
 veuillez ne pas utiliser les fichiers que je poste. Je me soucie de la sécurité des gens et tous mes fichiers sont parfaitement propres et sûrs à utiliser,<br>
 si vous avez un problème avec eux, merci de me faire part de la discorde ou des commentaires.<br>
 --------------------------------------------------<br>
-!!!IMPORTANT!!!! SI ELLE N'OUVRE PAS OUVRIR LE RUN.EXE OU QU'IL SE BLOQUE, VEUILLEZ RÉINSTALLER LE SPAMMER ET DÉSACTIVER VOTRE ANTIVIRUS! !!! IMPORTANT !!!<br>
--------------------------------------------------- <br>
 Il n'y a aucun virus dans ce programme. Si vous ne me faites pas confiance, c'est open source. Vous pouvez rechercher à travers le code source.<br>
 Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord et je le corrigerai pour vous.<br>
 <br>
@@ -22,7 +20,7 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 * Modifiez le fichier "config.json" avec le bloc-notes ou l'éditeur<br>
 * Mettez vos tokens (vous devez créer des comptes et prendre les tokens).<br>
 * Redémarrez le fichier "Run.bat"<br>
-* Entrez le mot de passe `GalackQSM` "Run.bat"<br>
+* Entrez le mot de passe `GalackQSM`<br>
 * Ouvrez votre navigateur et recherchez localhost:1337<br>
 * Profitez d'attaquer<br>
 -------------------------------------------------- <br>
