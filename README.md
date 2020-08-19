@@ -21,7 +21,8 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 * Recherchez des proxys avec le vérificateur de proxy inclus [AccountReaper](https://www.youtube.com/watch?v=mibaS3KK8FM) et achetez des tokens Discord ou créez vos propres comptes Discord!<br>
 * Modifiez le fichier "config.json" avec le bloc-notes ou l'éditeur<br>
 * Mettez vos tokens (vous devez créer des comptes et prendre les tokens).<br>
-* Redémarrez le fichier "Run.exe"<br>
+* Redémarrez le fichier "Run.bat"<br>
+* Entrez le mot de passe `GalackQSM` "Run.bat"<br>
 * Ouvrez votre navigateur et recherchez localhost:1337<br>
 * Profitez d'attaquer<br>
 -------------------------------------------------- <br>
