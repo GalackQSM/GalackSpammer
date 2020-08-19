@@ -1,0 +1,37 @@
+﻿ <center>
+
+{{#if active}}
+    <p><span class="red">Attaque active</span></p>
+{{else}}
+    <p><span class="green">Prêt</span></p>
+{{/if}}
+<p>Proxies:<span class="green"> {{proxyCount}} en marche!</span></p>
+<p>Tokens:<span class="green"> {{tokenCount}} en marche!</span></p>
+<h3>Proxies</h3>
+{{#each proxies}}
+    {{#if this.working}}
+        <p>{{this.item}} <span class="green">Marche ✓</span></p>
+    {{else}}
+        <p>{{this.item}} <span class="red">Erreur ✗ (Nouveau proxies nécessaires)</span></p>
+		{{/if}}
+{{/each}}
+<button class="btn btn-success" onclick=" window.open('https://proxyscrape.com/free-proxy-list','_blank')">Cliquez ici pour de nouveaux proxy HTTP</button>
+<h3>Tokens</h3>
+{{#each tokens}}
+    {{#if this.working}}
+        <p>{{this.item}} <span class="green">Marche ✓</span></p>
+    {{else}}
+        <p>{{this.item}} <span class="red">Erreur ✗ (peut-être bloqué à cause de la sécurité par téléphone.)</span></p>
+    {{/if}}
+{{/each}}
+<h4><span class="cyan">Parfois, les tokens ne fonctionnent pas en raison de la vérification du téléphone. Vous aurez alors besoin d'un nouveau Token.</span><h4>
+<form action="api/modify" method="post">
+	 </center>
+
+	
+  <title>GalackSpammer - Statut</title>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	

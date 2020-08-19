@@ -1,0 +1,111 @@
+﻿
+ <center>
+
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{#if active}}
+
+
+    <form action="api/stop" method="post">
+        <br>
+        <input type="submit" value="Stopper l'attaque!">
+        <p><span class="red">Attaque active </span></p>
+		<p><a href="default.asp"></a><p>
+        <p>Alive:<span class="green"> {{botCount}}</span></p>
+        <h3>Bots</h3>
+        {{#each bots}}
+            {{#if this.working}}
+                <p><span class="green">Marche ✓</span></p>
+            {{else}}
+                <p><span class="red">Erreur ✗</span></p>
+            {{/if}}
+        {{/each}}
+		
+    </form>
+{{else}}
+		
+
+		
+<html>
+
+  <head>
+    <title>GalackSpammer - Attaque</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <script type="text/javascript">
+      function insertText(elemID, text)
+      {
+        var elem = document.getElementById(elemID);
+        elem.innerHTML += text;
+      }
+    </script>
+	
+  </head>
+ <form>
+	<html>
+	<head>	
+<!-- Javascript -->
+<script type="text/javascript">
+function showHideLayer(id){
+e = document.getElementById(id);
+if(e.style.display=="block"){
+e.style.display = "none";
+} else {
+e.style.display = "block";
+}}
+</script> 
+	</head>
+	<body>
+	<!-- Link to Show/Hide -->
+	<a href="alternativerLink" class="cyan" onclick="showHideLayer('meinLayer');return(false)">Couleurs du texte (Afficher/Masquer)</a>
+	<div id="meinLayer" style="display:none;">
+  <span class="red">Codes de couleur (modifie la couleur du texte). Remplacez "Votre texte ici" par votre texte Spam!</span>
+  <br></br>
+  <span class="red">Ne cliquez pas dans la boîte "Message au spam" avant de choisir un code couleur (c'est un peu buggé).</span>
+  <br></br>
+      <input type="button" value="Italics" onclick="insertText('txt1', '*Votre texte ici*');">
+	  <input type="button" value="Bold" onclick="insertText('txt1', '**Votre texte ici**');">
+	  <input type="button" value="Bold Italics" onclick="insertText('txt1', '***Votre texte ici***');">
+	  <input type="button" value="Underline" onclick="insertText('txt1', '__Votre texte ici__');">
+	  <input type="button" value="Underline italics" onclick="insertText('txt1', '__*Votre texte ici*__');">
+	  <input type="button" value="Underline bold" onclick="insertText('txt1', '__**Votre texte ici**__');">
+	  <input type="button" value="underline bold italics" onclick="insertText('txt1', '__***Votre texte ici***__');">
+	  <input type="button" value="Strikethrough" onclick="insertText('txt1', '~~Votre texte ici~~');">	  
+	  <input type="button" value="Blue" onclick="insertText('txt1', ''''css Votre texte ici'''');">
+	  <input type="button" value="Cyan" onclick="insertText('txt1', ''''yaml Votre texte ici'''');">
+	  <input type="button" value="Orange" onclick="insertText('txt1', ''''fix Votre texte ici'''');">
+	  <input type="button" value="Red" onclick="insertText('txt1', ''''diff - Votre texte ici'''');">
+	  </div>
+	</body>
+</html>
+	  
+    </form>
+  </body>
+</html>
+               
+    <form action="api/start" method="post">
+        <p><span class="green">Code invitation</span></p>
+        <input type="text" placeholder="LBzPJK" value="{{attack.invite}}" name="invite">
+        <p><span class="green">ID du salon</span></p>
+        <input type="text" placeholder="382932518554506564" value="{{attack.id}}" name="id">
+		<p><span class="green">Message à spam</span></p> 
+	    <textarea id="txt1" cols="50" rows="3" placeholder="Votre texte ici" name="message">{{attack.message}}</textarea>
+		<br><br>
+		
+		
+		<input type="submit" value="Lancer l'attaque!">
+        <p><span class="green">Prêt</span></p>
+        <p>Proxies: {{proxyCount}}</p>
+        <p>Tokens: {{tokenCount}}</p>
+    </form>
+{{/if}}
+ </center>
+
+
+
+
+
+
+

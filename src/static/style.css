@@ -1,0 +1,98 @@
+html, body {
+    margin: 0;
+    padding: 10px;
+    background: url(https://i.redd.it/vda9rbt01en01.png);
+    
+}
+
+
+* {
+    font-family: Roboto;
+}
+
+p {
+    color: #D6EAF8;
+}
+
+h1, h3 {
+    color: #D35400 ;
+}
+
+a {
+    text-decoration: none;
+    color: #1B2631  ;
+    margin: 50px;
+}
+
+a:hover {
+    color: #595959;
+}
+
+input[type="text"], textarea {
+    padding: 10px;
+    outline: none;
+    background-color: transparent;
+    color: #82E0AA;
+    border: 1.5px solid #85C1E9;
+    border-radius: 10px;
+}
+
+input[type="text"]:focus, textarea:focus {
+    background-color: #404040;
+}
+
+input[type="submit"] {
+    padding: 10px;
+    outline: none;
+    background-color: #DC7633  ;
+    color: #262626;
+    border: 2.5px solid #85C1E9;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #b3b3b3;
+}
+
+input[type="submit"]:active {
+    background-color: #808080;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrapper {
+    display: inline-block;
+    min-width: 500px;
+    padding: 10px;
+    background-color:#262626;
+    opacity: .9;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bar {
+    margin: -10px;
+    margin-bottom: initial;
+    padding: 10px;
+    background-color:#1f9ada;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.red {
+    color: #ff3333;
+}
+
+.green {
+    color: #33cc33;
+}
+
+.cyan {
+    color: #80ECFF  ;
+}
