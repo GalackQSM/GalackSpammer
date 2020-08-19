@@ -25,6 +25,12 @@ Si vous trouvez quelque chose de suspect, vous pouvez me contacter dans Discord 
 * Profitez d'attaquer<br>
 -------------------------------------------------- <br>
 <br>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/j6Y7ED2.png" height="200" width="350"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/b0Aued2.png" height="200" width="350"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/X9KwydB.png" height="200" width="350"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/3nLz7L1.png" height="200" width="350"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/CQuU7qS.png" height="200" width="350"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/MtNdxt9.png" height="200" width="350"/>
 
 ### GALACKSPAMMER copyright
 © 2020 GalackQSM
